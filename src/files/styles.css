@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+  .phone-down {
+    float: none !important;
+    margin: auto 10%;
+    padding: 10rem 0 0 0;
+  }
+  h4.cer-ver {
+    font-size: 3.4rem;
+  }
+}
